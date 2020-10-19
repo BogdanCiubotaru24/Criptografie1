@@ -1,0 +1,6 @@
+C:\Users\Bogdy\Source\Repos\Criptografie1\obj\Debug\Criptografie1.csprojAssemblyReference.cache
+C:\Users\Bogdy\Source\Repos\Criptografie1\bin\Debug\Criptografie1.exe.config
+C:\Users\Bogdy\Source\Repos\Criptografie1\bin\Debug\Criptografie1.exe
+C:\Users\Bogdy\Source\Repos\Criptografie1\bin\Debug\Criptografie1.pdb
+C:\Users\Bogdy\Source\Repos\Criptografie1\obj\Debug\Criptografie1.exe
+C:\Users\Bogdy\Source\Repos\Criptografie1\obj\Debug\Criptografie1.pdb
